@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://shasabbir.github.io/csb-77t8vg/static/css/main.2c506cd2.chunk.css",
+    "main.js": "https://shasabbir.github.io/csb-77t8vg/static/js/main.7be7346e.chunk.js",
+    "main.js.map": "https://shasabbir.github.io/csb-77t8vg/static/js/main.7be7346e.chunk.js.map",
+    "runtime-main.js": "https://shasabbir.github.io/csb-77t8vg/static/js/runtime-main.d692737b.js",
+    "runtime-main.js.map": "https://shasabbir.github.io/csb-77t8vg/static/js/runtime-main.d692737b.js.map",
+    "static/js/2.8aa95cf3.chunk.js": "https://shasabbir.github.io/csb-77t8vg/static/js/2.8aa95cf3.chunk.js",
+    "static/js/2.8aa95cf3.chunk.js.map": "https://shasabbir.github.io/csb-77t8vg/static/js/2.8aa95cf3.chunk.js.map",
+    "index.html": "https://shasabbir.github.io/csb-77t8vg/index.html",
+    "precache-manifest.6c3c084be6decfe82863f5f9f379bc0d.js": "https://shasabbir.github.io/csb-77t8vg/precache-manifest.6c3c084be6decfe82863f5f9f379bc0d.js",
+    "service-worker.js": "https://shasabbir.github.io/csb-77t8vg/service-worker.js",
+    "static/css/main.2c506cd2.chunk.css.map": "https://shasabbir.github.io/csb-77t8vg/static/css/main.2c506cd2.chunk.css.map",
+    "static/js/2.8aa95cf3.chunk.js.LICENSE.txt": "https://shasabbir.github.io/csb-77t8vg/static/js/2.8aa95cf3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d692737b.js",
+    "static/js/2.8aa95cf3.chunk.js",
+    "static/css/main.2c506cd2.chunk.css",
+    "static/js/main.7be7346e.chunk.js"
+  ]
+}
